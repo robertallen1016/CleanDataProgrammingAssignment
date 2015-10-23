@@ -1,4 +1,8 @@
-Codebook for tidydata.txt
+Codebook for Tidy.txt
+
+
+The Tidy text file is the mean of each variable listed below grouped by Subject and Activity.
+
 
 Feature Selection 
 =================
@@ -16,7 +20,9 @@ mean(): Mean value
 std(): Standard deviation
 meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
+
 Variables
+=========
 
  [1] "Subject_ID":  Unique identifier or subject                                       
  [2] "Activity":  Subjects activity                                          
